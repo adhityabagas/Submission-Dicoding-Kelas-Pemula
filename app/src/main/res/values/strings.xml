@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Submission Pemula</string>
+    <string name="camera_name">Nama Kamera</string>
+    <string name="camera_detail">Detail</string>
+    <string name="camera_jenis">Jenis Kamera</string>
+    <string name="camera_seri">Seri Kamera</string>
+    <string name="camera_price">Harga Kamera</string>
+    <string name="about_page">About Page</string>
+    <string name="btn_pembelian">Beli</string>
+    <string name="tv_spesifikasi">Specification</string>
+</resources>
