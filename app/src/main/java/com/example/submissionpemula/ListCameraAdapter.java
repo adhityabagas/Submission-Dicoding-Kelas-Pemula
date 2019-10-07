@@ -26,7 +26,7 @@ public class ListCameraAdapter extends RecyclerView.Adapter<ListCameraAdapter.Li
         return listCamera;
     }
 
-    void setListCameraAdapter(ArrayList<Camera> listCamera) {
+    public void setListCameraAdapter(ArrayList<Camera> listCamera) {
         this.listCamera = listCamera;
     }
 

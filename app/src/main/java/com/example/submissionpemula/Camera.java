@@ -6,7 +6,7 @@ import android.os.Parcelable;
 public class Camera implements Parcelable {
     private String name, type, price, desc, photo;
 
-    /* method parcelable*/
+    /* method parcelable */
     @Override
     public int describeContents() {
         return 0;
