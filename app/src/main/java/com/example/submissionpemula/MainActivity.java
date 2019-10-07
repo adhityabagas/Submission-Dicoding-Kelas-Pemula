@@ -12,6 +12,8 @@ import android.widget.Toast;
 
 import java.util.ArrayList;
 
+/* create 7 - 10 - 2019 */
+
 public class MainActivity extends AppCompatActivity {
     RecyclerView rvCamera;
     private ArrayList<Camera> list = new ArrayList<>();

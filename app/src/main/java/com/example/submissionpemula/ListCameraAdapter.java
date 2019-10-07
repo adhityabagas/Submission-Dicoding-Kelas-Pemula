@@ -17,6 +17,8 @@ import com.bumptech.glide.request.RequestOptions;
 
 import java.util.ArrayList;
 
+/* create 7 - 10 - 2019 */
+
 public class ListCameraAdapter extends RecyclerView.Adapter<ListCameraAdapter.ListViewHolder> {
     private Context context;
     private ArrayList<Camera> listCamera;
