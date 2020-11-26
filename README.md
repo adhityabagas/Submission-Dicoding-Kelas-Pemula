@@ -1,4 +1,4 @@
-# Submission-Dicoding-Kelas-Android-Pemula
+# Dicoding Submission - Kelas Android Pemula
 Submission Dicoding Kelas Pemula
 
 ## Feature
